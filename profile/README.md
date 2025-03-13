@@ -6,7 +6,15 @@
 
 ## Structure
 
-▫️ [frontend](https://github.com/vbmetrics/frontend)
+▫️ [frontend](https://github.com/vbmetrics/frontend) - Next.js application. 
+
+▫️ [backend](https://github.com/vbmetrics/backend) - based on FastAPI.
+
+▫️ [vbmetrics-py](https://github.com/vbmetrics/vbmetrics-py) - Python package with sample data, CLI, parser, and ML models.
+
+▫️ [cli](https://github.com/vbmetrics/cli) - standalone Command-line interface for application.
+
+▫️ [parser](https://github.com/vbmetrics/parser) - volleyball play codes parser.
 
 ## Contact
 
