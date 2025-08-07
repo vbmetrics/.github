@@ -16,6 +16,8 @@
 
 ▫️ [parser](https://github.com/vbmetrics/parser) - volleyball play codes parser.
 
+▫️ [utils](https://github.com/vbmetrics/utils) - tools repository.
+
 ## Contact
 
 🌐 [skublin.me](https://skublin.me)
